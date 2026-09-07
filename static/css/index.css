@@ -144,7 +144,7 @@ a:hover { color: var(--cyan); }
 }
 
 .publication-links .coming-soon-button {
-  cursor: default;
+  cursor: pointer;
   opacity: .82;
 }
 
